@@ -1,0 +1,15 @@
+{
+  "name": "girishtunk.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://girishtunk.github.io/website_0.1",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
